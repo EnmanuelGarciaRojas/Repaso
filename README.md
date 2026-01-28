@@ -1,7 +1,7 @@
 Sistema de Gestión de Productos
 
 Información del Estudiante
-Nombre: [Nash Juan Rojas Brito]
+Nombre: [Enmanuel García Rojas]
 Matrícula: [1000-4093]
 Fecha de entrega: [27/01/2026]
 
